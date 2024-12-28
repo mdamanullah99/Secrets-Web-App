@@ -2,11 +2,12 @@
 ## Features: 
 1. Register and Login(Get Authenticated).
 2. Email & Password login and Google Login.
-3. Store Your Secret Informatio Securely.
+3. Store Your Secret Information Securely.
 4. Session and Cookies
 5. Log out
 
 ## Packages: 
+````bash
 "dependencies": {
     "bcrypt": "^5.1.1",
     "body-parser": "^1.20.2",
@@ -19,3 +20,4 @@
     "passport-local": "^1.0.0",
     "pg": "^8.11.3"
   }
+````
